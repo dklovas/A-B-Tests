@@ -1,5 +1,3 @@
-# DS.v3.2.2.5
-
 # Analyzing A/B Tests
 
 ## Table of Contents
